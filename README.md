@@ -5,7 +5,7 @@ This project is designed to help students learn how to properly use semantic ele
 ## Assignment
 
 This is a simple webpage that potrays information about the Sesame Street characters Bert and Ernie.
-This site is built almost entirely using the <div> tag.
+This site is built almost entirely using the < div > tag.
 Replace the tags using the semantic tags that make the most sense, without sacrificing the formatting.
 Don't worry about the CSS: if the text size changes that's fine, focus on building a semantically correct webpage.
 
